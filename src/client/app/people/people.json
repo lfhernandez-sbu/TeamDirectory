@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Luis Hernandez",
+        "age": 23,
+        "role": "Dev"
+    },
+    {
+        "name": "John Doe",
+        "age": 30,
+        "role": "Project Manager"
+    },
+    {
+        "name": "Jane Smith",
+        "age": 25,
+        "role": "Dev"
+    },
+    {
+        "name": "Gabi Quintero",
+        "age": 33,
+        "role": "Designer"
+    },
+    {
+        "name": "Fails Unlimited",
+        "age": 23,
+        "role": "Project Lead"
+    }
+]
